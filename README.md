@@ -40,16 +40,23 @@ This project serves as a practical demonstration of integrating a barcode scanne
 ```
 git clone [https://github.com/TalipTun/Flutter_Barcode_Scanner.git](https://github.com/TalipTun/Flutter_Barcode_Scanner.git)
 cd Flutter_Barcode_Scanner
+
 ```
 * Install the dependencies:
 
-``` flutter pub get ```
+``` 
+flutter pub get
+
+```
 
 * Ensure your device has camera permissions enabled.
 
 * Run the app:
 
-``` flutter run ```
+```
+flutter run 
+
+```
 
 # 🧠 Learning Highlights
 This project was a valuable opportunity to apply several key concepts of Flutter and mobile development:
@@ -65,14 +72,10 @@ This project was a valuable opportunity to apply several key concepts of Flutter
 # 👤 Author
 Talip Tun
 
-* LinkedIn
+* [LinkedIn](https://www.linkedin.com/in/talip-tun/)
 
-* GitHub
+* [GitHub](https://www.github.com/TalipTun)
+
 
 # 📄 License
-This project is licensed under the MIT License.
-
-GitHub
-
-License
 This project is licensed under the MIT License.
